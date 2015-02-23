@@ -1,6 +1,0 @@
-# CM build target list
-# <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
-# Absence of a period indicates Daily (the default)
-
-# Daily cm-12.0
-cm_u8951-userdebug cm-12.0
